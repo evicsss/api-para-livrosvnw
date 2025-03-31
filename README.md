@@ -1,4 +1,4 @@
-# API de Gerenciamento de Livros - Vai Ler na Web  
+# API de Gerenciamento de Livros
 
 Uma API desenvolvida com **Flask** e **SQLite**, permitindo o cadastro e a listagem de livros doados. Criada para fins de estudo na **Escola Vai na Web**.
 
